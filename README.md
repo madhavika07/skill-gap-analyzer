@@ -6,7 +6,7 @@ A simple and interactive web application that helps users identify their skill g
 
 ## 🌐 Live Demo
 
-👉 https://skill-gap-analyzer--sriyavls09.replit.app/login
+👉https://replit.com/@madinemadhu74/Skill-Gap-Analyzer?s=app
 
 ---
 
